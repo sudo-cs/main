@@ -5,7 +5,7 @@
   <li>Actividad: Roasting of Our Code</li>
   <li>Requerimientos</li>
   <ul>
-    <li>Trea 2 piezas de codigo y buscaremos áreas de oportunidad de tu código</li>
+    <li>Traer 2 piezas de codigo y buscaremos áreas de oportunidad de tu código</li>
   </ul>
 </ul>
 <br>
