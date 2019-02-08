@@ -5,7 +5,7 @@
   <li>Actividad: $sudo On Software Engineering & Roasting of Our Code</li>
   <li>Lugar: Salon 2101 (Edificio 2, Primer Nivel, ITESM Querétaro)</li>
   <li>Hora: 16:30 PM</li>
-  <li>Target: Alumnos de <= 6to semestre y <b>cualquier persona con ganas de aprender y compartir sus ideas en un ambiente de <b>igualdad y sin censura</b> con respecto a ciencias computacionales y sus allegados</li>
+  <li>Target: Alumnos de <= 6to semestre y <b>cualquier persona con ganas de aprender y compartir sus ideas en un ambiente de <i>igualdad y sin censura</i> con respecto a ciencias computacionales y disciplinas allegadas</b></li>
   <li>Requerimientos:</li>
   <ul>
     <li>Traer 2 piezas de codigo viejos ("shitscript") y buscaremos áreas de mejora y análisis</li>
