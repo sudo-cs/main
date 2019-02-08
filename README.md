@@ -16,5 +16,5 @@
 <br>
 <br>
 
-<i> $sudo es independiente, pero respaldado por ACM Querétaro, Capítulo Estudiantil de ITESM Campus Querétaro</i>
+<i> $sudo es independiente, pero respaldado por ACM Querétaro, Capítulo Estudiantil de ITESM Campus Querétaro</i><br>
 <i> Contacto y dudas: <a href="mailto:sudo-cs@protonmail.com">sudo-cs@protonmail.com</a></i>
