@@ -10,4 +10,4 @@
 <i> $sudo es independiente, pero respaldado por ACM Querétaro, Capítulo Estudiantil de ITESM Campus Querétaro</i><br>
 
 
-<i> Si te interesa saber más acerca del grupo y sus horarios de reunión escribe a <a href="mailto:sudo-cs@protonmail.com">sudo-cs@protonmail.com</a> o contácta a alguno de sus miembros.</i>
+<i> Si te interesa saber más acerca del grupo y sus horarios de reunión escribe a:<br> <a href="mailto:sudo-cs@protonmail.com">sudo-cs@protonmail.com</a> o contácta a alguno de sus miembros.</i>
