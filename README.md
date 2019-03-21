@@ -1,23 +1,13 @@
 ## Bienvenido a $sudo
+<br><i>From <a href="http://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html">"On the cruelty of really teaching computing science" (EWD1036)</a>:</i><br><br>
+<i> Software engineering, of course, presents itself as another worthy cause, but that is eyewash: if you carefully read its literature and analyse what its devotees actually do, you will discover that software engineering has accepted as its charter "How to program if you cannot." - <a href="https://en.wikipedia.org/wiki/Edsger_W._Dijkstra">Edsger Dijkstra</a> (1930 – 2002)</i>
 
-<ul>
-  <li>Primera Sesion: 13 de Febrero de 2019</li>
-  <li>Actividad: $sudo On Software Engineering & Roasting of Our Code</li>
-  <li>Lugar: Salon 2101 (Edificio 2, Primer Nivel, ITESM Querétaro)</li>
-  <li>Hora Inicio: 16:30 PM</li>
-  <li>Duración : 1 hr aprox pero se puede prolongar de acuerdo al desarroll</li>
-  <li>Target: Alumnos de <= 6to semestre y <b>cualquier persona con ganas de aprender y compartir sus ideas en un ambiente de <i>igualdad y sin censura</i> con respecto a ciencias computacionales y disciplinas allegadas</b></li>
-  <li>Requerimientos:</li>
-  <ul>
-    <li>Traer 2 piezas de codigo viejos ("shitscript") y buscaremos áreas de mejora</li>
-    <li>Estar abierto discutir ideas bajo sustento</li>
-  <li>Buena actitud y <i>camaradería</i> ☭ </li>
-  </ul>
-  <li><i>Se les invita a los asistentes a traer comida y bebida para compartir durante la sesion, procurando usar la menor cantidad de recipientes/contenedores de un sólo uso ♻️</i></li>
-</ul>
-<br>
-<br>
+</i>
+
+<br><strong>Computer Science encouraged by the <a href="https://en.wikipedia.org/wiki/Software_craftsmanship">Software Craftsmanship</a></strong>
 
 
 <i> $sudo es independiente, pero respaldado por ACM Querétaro, Capítulo Estudiantil de ITESM Campus Querétaro</i><br>
-<i> Contacto y dudas: <a href="mailto:sudo-cs@protonmail.com">sudo-cs@protonmail.com</a></i>
+
+
+<i> Si te interesa saber más acerca del grupo y sus horarios de reunion escribe a <a href="mailto:sudo-cs@protonmail.com">sudo-cs@protonmail.com</a> o contácta a alguno de sus miembros.</i>
